@@ -1,4 +1,4 @@
-name: nama: github/workflows/build-apk.yml
+name: name: Bina APK Jom Kira
 on:
   workflow_dispatch:
   push:
